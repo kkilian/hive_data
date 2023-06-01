@@ -1,0 +1,83 @@
+URL: https://entomology.gitlab.io/hive.html?game=bsn:U!HV-Eucalyx-image13-2013-02-24-0307
+
+1: wS1 .
+2: bG1 wS1/
+3: wA1 wS1\
+4: bQ bG1-
+5: wQ -wS1
+6: bA1 \bG1
+7: wA1 \bA1
+8: bA2 bA1-
+9: wS2 wA1/
+10: bA3 bQ\
+11: wS2 -bA1
+12: bA2 \wA1
+13: wS2 \bA2
+14: bG2 bA1-
+15: wG1 wQ\
+16: bA3 -wQ
+17: wA2 wS2/
+18: bS1 bQ\
+19: wA2 bS1\
+20: bS2 /bA3
+21: wA3 -wS2
+22: bS2 bA3/
+23: wA3 bQ-
+24: bG2 bS2/
+25: wG1 bA1-
+26: bA3 /wQ
+27: wS1 /bA3
+28: bB1 -bG2
+29: wA3 -bB1
+30: bB2 bG1\
+31: wG1 -wA3
+32: bB2 wQ-
+33: wG2 wA2\
+34: bB2 wQ
+35: wB1 -wS2
+36: bG3 bS2-
+37: wB1 wS2
+38: bS2 /wG1
+39: wB1 bA2
+40: bB2 bG3
+41: wS2 wA1-
+42: bB2 bG1
+43: wG3 \wB1
+44: bB2 bG3
+45: wB1 wA1
+46: bB2 wQ-
+47: wB1 bA1
+48: bB2 bG1\
+49: wB2 wA2-
+50: bQ bS1/
+51: wS2 \bQ
+52: bS2 bB1\
+53: wB2 wA2
+54: bG3 bG1-
+55: wS2 bA2-
+56: bQ bG3/
+57: wS2 \bQ
+58: bB2 wQ-
+59: wB2 bS1
+60: bG2 wB1-
+61: wS2 wG3-
+62: bQ bG2/
+63: wS2 \bQ
+64: pass
+65: wB2 bG3
+66: pass
+67: wB2 bG2
+68: pass
+69: wB1 bG1
+70: pass
+71: wB2 bQ
+72: pass
+73: wB1 bG2
+74: pass
+75: wG2 wA1-
+76: bA1 bS2-
+77: wA2 wB2-
+78: bS1 bA3-
+79: wB2 wS2-
+80: bG3 wA3\
+81: wB1 bG2-

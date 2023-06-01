@@ -1,0 +1,44 @@
+URL: https://entomology.gitlab.io/hive.html?game=bsn:U!HV-DrRaven-ringersoll-2011-11-19-1600
+
+1: wG1 .
+2: bG1 wG1-
+3: wA1 \wG1
+4: bQ bG1/
+5: wQ /wG1
+6: bG2 bG1-
+7: wA1 bQ/
+8: bA1 bG1\
+9: wS1 wA1-
+10: bA1 wS1/
+11: wB1 \wA1
+12: bG2 -wA1
+13: wB1 bG2
+14: bB1 bG1-
+15: wG2 \wB1
+16: bA2 bA1-
+17: wG3 wG2-
+18: bA2 -wG2
+19: wG3 bQ-
+20: bB1 wG3\
+21: wA2 \wG1
+22: bS1 /bB1
+23: wA2 bA2\
+24: bA2 \wG2
+25: wA2 \bA1
+26: bA3 bS1-
+27: wB2 wG2-
+28: bA3 wG1/
+29: wB2 wA1
+30: bB2 bG1\
+31: wB2 bQ
+32: bG1 -wB1
+33: wA1 \bA2
+34: bS2 -bG1
+35: wA3 wA2/
+36: bS2 -wQ
+37: wS2 wB1-
+38: bG3 bB2\
+39: wA3 -wG2
+40: bG1 bA2-
+41: wA2 wA3\
+42: resign
