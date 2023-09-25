@@ -1,0 +1,20 @@
+URL: https://entomology.gitlab.io/hive.html?game=bsn:HV-medarga-Loizz-2008-09-29-1657
+
+1: wS1 .
+2: bQ wS1\
+3: wG1 -wS1
+4: bA1 bQ-
+5: wQ wG1/
+6: bA2 /bQ
+7: wB1 wQ-
+8: bA1 \wQ
+9: wA1 -wG1
+10: bA2 -wA1
+11: wG2 wB1/
+12: bA3 bQ-
+13: wS2 wA1\
+14: bA3 wA1/
+15: wS2 -bA2
+16: bB1 bA1/
+17: wG2 wG1\
+18: bB1 bA1-

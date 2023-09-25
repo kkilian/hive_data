@@ -1,0 +1,33 @@
+URL: https://entomology.gitlab.io/hive.html?game=bsn:HV-ringersoll-fumanchu-2011-02-18-1224
+
+1: wG1 .
+2: bG1 wG1-
+3: wA1 -wG1
+4: bG2 bG1-
+5: wQ wA1/
+6: bQ bG1/
+7: wA1 bQ/
+8: bA1 bG1\
+9: wB1 \wA1
+10: bA1 wQ/
+11: wA2 wA1-
+12: bB1 \bA1
+13: wA2 \bB1
+14: bA2 bG1\
+15: wB1 bA1-
+16: bG1 -wG1
+17: wA1 bA2\
+18: bA3 bG2-
+19: wA3 wB1/
+20: bA3 wA3/
+21: wS1 wA1-
+22: bB2 /bG1
+23: wS1 bQ-
+24: bB2 bG1
+25: wG2 wS1-
+26: bB2 wQ
+27: wG2 bB2-
+28: bS1 -bB2
+29: wG1 -bG1
+30: bS2 bS1/
+31: resign

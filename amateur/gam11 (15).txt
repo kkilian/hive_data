@@ -1,0 +1,34 @@
+URL: https://entomology.gitlab.io/hive.html?game=bsn:HV-mahlangeni-Loizz-2008-12-11-1041
+
+1: wS1 .
+2: bG1 wS1-
+3: wB1 /wS1
+4: bQ bG1/
+5: wQ -wS1
+6: bA1 bG1\
+7: wB1 wS1
+8: bA1 \wQ
+9: wB1 bG1
+10: bB1 \bQ
+11: wB1 bQ
+12: bB1 wB1
+13: wA1 wQ\
+14: bS1 bG1\
+15: wA1 bB1-
+16: bS1 /wQ
+17: wA2 wA1-
+18: bS2 -bS1
+19: wA2 \bB1
+20: bS2 bS1-
+21: wA3 wA1-
+22: bB2 -bS1
+23: wA3 bS2-
+24: bB2 -wQ
+25: wS1 \bA1
+26: bB2 wQ
+27: wG1 \wA2
+28: bG2 bA1-
+29: wG1 bG1-
+30: bG3 -bB2
+31: wG2 wA1-
+32: bB2 wQ-

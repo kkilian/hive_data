@@ -1,0 +1,62 @@
+URL: https://entomology.gitlab.io/hive.html?game=bsn:HV-MrWoodrow-kkurtonis-2016-01-13-2314
+
+1: wG1 .
+2: bG1 wG1/
+3: wQ /wG1
+4: bQ \bG1
+5: wS1 -wG1
+6: bA1 bG1-
+7: wS1 \bQ
+8: bG2 bQ-
+9: wB1 -wS1
+10: bA1 \wB1
+11: wB2 wS1/
+12: bG2 /wQ
+13: wB2 wS1-
+14: bA2 -bA1
+15: wB2 bQ
+16: bG2 wB2-
+17: wG2 wB1\
+18: bA3 bG1-
+19: wG2 bA2/
+20: bA2 /wB1
+21: wG3 wQ-
+22: bS1 bG2-
+23: wG3 -bG1
+24: bS1 wS1/
+25: wS2 -wG1
+26: bG2 /wQ
+27: wG1 wB2-
+28: bG1 wG1/
+29: wA1 -wS2
+30: bA2 \wA1
+31: wA2 wS2-
+32: bA3 wA2-
+33: wA3 \wG2
+34: bS1 wA3-
+35: wA3 wB1\
+36: bS2 -bG2
+37: wB2 wG3
+38: bS2 -wA1
+39: wB2 wG3-
+40: bB1 -bG2
+41: wB2 bA3
+42: bA2 bG2-
+43: wA3 bG2\
+44: bA2 wA3\
+45: wB2 wA2
+46: bG3 bA2-
+47: wB2 wQ
+48: bG3 -bA2
+49: wB2 bB1/
+50: bA2 wQ-
+51: wB2 bB1
+52: bB2 bA2-
+53: wB2 bS2\
+54: bB1 wB2
+55: pass
+56: bB2 bA2\
+57: pass
+58: bB2 bG2-
+59: pass
+60: bB1 wB2-

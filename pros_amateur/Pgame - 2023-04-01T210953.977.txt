@@ -1,0 +1,36 @@
+URL: https://entomology.gitlab.io/hive.html?game=bsn:HV-Eucalyx-Loizz-2008-11-30-1638
+
+1: wG1 .
+2: bQ wG1-
+3: wQ -wG1
+4: bA1 bQ/
+5: wS1 wQ/
+6: bA1 wS1/
+7: wA1 wQ\
+8: bS1 \bA1
+9: wA1 bQ-
+10: bS1 -wQ
+11: wB1 wA1\
+12: bB1 /bS1
+13: wG2 wQ\
+14: bB1 bS1\
+15: wG2 wS1-
+16: bA1 \wS1
+17: wB1 bQ\
+18: bB2 bB1\
+19: wG1 \bA1
+20: bB2 bB1-
+21: wB1 bQ
+22: bS2 -bB1
+23: wA2 wG2-
+24: bS2 bS1/
+25: wS2 wB1\
+26: bA2 -bB1
+27: wG3 wS2-
+28: bA2 wG3-
+29: wA3 wG2/
+30: bG1 -bS1
+31: wB1 bB2-
+32: bA2 wA3/
+33: wG1 wQ-
+d

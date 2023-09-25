@@ -1,0 +1,34 @@
+URL: https://entomology.gitlab.io/hive.html?game=bsn:HV-bagworm-EddyMarlo-2009-04-17-1733
+
+1: wS1 .
+2: bG1 wS1-
+3: wB1 \wS1
+4: bQ bG1\
+5: wB2 /wS1
+6: bA1 /bQ
+7: wQ \wB1
+8: bA1 -wQ
+9: wG1 -wS1
+10: bS1 -bA1
+11: wA1 wQ-
+12: bS1 wQ/
+13: wA1 bQ\
+14: bA2 bS1/
+15: wA2 -wB2
+16: bA2 bA1/
+17: wA2 \bA2
+18: bB1 bS1-
+19: wA2 bB1-
+20: bA3 -bA2
+21: wA3 -wB2
+22: bG2 bA2/
+23: wA3 /bA1
+24: bG2 wQ-
+25: wG1 bB1/
+26: bA3 bG2-
+27: wG2 -wS1
+28: bB1 bS1
+29: wG2 bG1-
+30: bB1 wQ
+31: wB2 wS1\
+32: bB1 wA3-

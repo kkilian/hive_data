@@ -1,0 +1,36 @@
+URL: https://entomology.gitlab.io/hive.html?game=bsn:T!HV-BLueSS-Raccoons-2010-05-16-1737
+
+1: wB1 .
+2: bG1 \wB1
+3: wA1 wB1\
+4: bQ \bG1
+5: wS1 wB1-
+6: bS1 -bG1
+7: wQ -wA1
+8: bS1 /wQ
+9: wS1 bQ/
+10: bS2 /bS1
+11: wA1 -bG1
+12: bA1 -bS1
+13: wB2 \wS1
+14: bA2 bS2-
+15: wB2 wS1
+16: bA3 bS2\
+17: wA2 \wB2
+18: bA3 \wA2
+19: wB2 bQ
+20: bA2 -wA1
+21: wA3 -wS1
+22: bA1 wS1-
+23: wA3 bA2/
+24: bA3 -wA2
+25: wG1 wA2/
+26: bA1 wG1-
+27: wG2 wS1-
+28: bA2 wG2-
+29: wA3 bA3\
+30: bA3 -wA3
+31: wB2 bG1
+32: bA2 wG2\
+33: wG3 wA1\
+34: resign

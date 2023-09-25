@@ -1,0 +1,26 @@
+URL: https://entomology.gitlab.io/hive.html?game=bsn:U!HV-DrRaven-guest-2011-06-11-1446
+
+1: wG1 .
+2: bG1 -wG1
+3: wQ wG1/
+4: bS1 \bG1
+5: wA1 wG1\
+6: bA1 /bG1
+7: wA2 wG1-
+8: bQ -bG1
+9: wA2 bA1\
+10: bS1 wQ/
+11: wA1 \bQ
+12: bB1 -bA1
+13: wG2 wG1-
+14: bA2 bS1/
+15: wG2 -bQ
+16: bB1 bQ
+17: wS1 -wA1
+18: bA3 bS1-
+19: wS1 wA1-
+20: bA3 /wA2
+21: wG3 wS1/
+22: bA2 \wG3
+23: wS2 -wA1
+24: bB1 wG2\

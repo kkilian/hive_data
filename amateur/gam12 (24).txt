@@ -1,0 +1,19 @@
+URL: https://entomology.gitlab.io/hive.html?game=bsn:U!HV-image13-kkurtonis-2013-03-28-1527
+
+1: wB1 .
+2: bG1 wB1-
+3: wQ \wB1
+4: bQ bG1\
+5: wQ wB1/
+6: bS1 bQ-
+7: wB1 bG1
+8: bS1 wQ/
+9: wB1 bQ
+10: bA1 \bS1
+11: wB2 /wB1
+12: bA1 wQ-
+13: wS1 wB1-
+14: bG2 bS1-
+15: wA1 wB2-
+16: bG2 -wB1
+17: wB1 bG1-

@@ -1,0 +1,30 @@
+URL: https://entomology.gitlab.io/hive.html?game=bsn:U!HV-olivejuice-Eucalyx-2009-02-21-0024
+
+1: wG1 .
+2: bB1 wG1-
+3: wS1 \wG1
+4: bQ bB1/
+5: wQ /wG1
+6: bS1 bB1\
+7: wS1 bQ/
+8: bS1 /wQ
+9: wS2 \wS1
+10: bG1 bB1-
+11: wA1 wS1-
+12: bA1 /bS1
+13: wA1 /bA1
+14: bA2 bA1-
+15: wA2 wS1-
+16: bA3 -bS1
+17: wA2 bG1-
+18: bA3 -wQ
+19: wG2 wS1-
+20: bG2 -bS1
+21: wG2 -wS1
+22: bG2 bS1-
+23: wB1 wA2-
+24: bS2 -bS1
+25: wS2 wG1/
+26: bB1 wQ-
+27: wA1 bQ-
+28: bA1 bA3/

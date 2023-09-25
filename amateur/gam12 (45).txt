@@ -1,0 +1,46 @@
+URL: https://entomology.gitlab.io/hive.html?game=bsn:HV-Walloon-kkurtonis-2013-06-02-1641
+
+1: wS1 .
+2: bB1 wS1-
+3: wS2 /wS1
+4: bQ bB1/
+5: wQ -wS1
+6: bA1 \bQ
+7: wS2 bB1-
+8: bA1 \wQ
+9: wB1 wS2-
+10: bQ wS1/
+11: wB1 wS2/
+12: bA2 -bA1
+13: wB1 bQ-
+14: bB1 wS1
+15: wS2 bQ/
+16: bA3 bB1\
+17: wA1 wS2-
+18: bA2 -wQ
+19: wA1 bA3\
+20: bG1 -bA1
+21: wB2 \wS2
+22: bG1 bA2\
+23: wB2 -wS2
+24: bA2 wB1\
+25: wG1 wB2/
+26: bS1 \bA1
+27: wG1 bA1-
+28: bS1 wB2/
+29: wS2 bA2-
+30: bB1 wQ
+31: wG2 wB1/
+32: bB2 -bB1
+33: wG1 wB1-
+34: bA1 bB1/
+35: wG2 wS1-
+36: bA1 bB2/
+37: wA1 wB2-
+38: bA2 wG1/
+39: wS2 bA3\
+40: bS2 -bG1
+41: wG3 wS2\
+42: bS2 bG1-
+43: wG3 bA1-
+d

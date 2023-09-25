@@ -1,0 +1,22 @@
+URL: https://entomology.gitlab.io/hive.html?game=bsn:HV-DVill-DrRaven-2011-06-15-1929
+
+1: wB1 .
+2: bG1 wB1-
+3: wG1 -wB1
+4: bQ bG1/
+5: wQ wG1/
+6: bG2 bG1-
+7: wG1 bG2-
+8: bS1 bQ/
+9: wG2 /wB1
+10: bS1 wQ/
+11: wS1 wG2\
+12: bA1 bS1/
+13: wS1 bG2\
+14: bA1 -wQ
+15: wA1 wG1/
+16: bB1 \bS1
+17: wA1 bQ/
+18: bB1 bA1/
+19: wG2 wQ-
+20: bG1 bA1\

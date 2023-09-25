@@ -1,0 +1,35 @@
+URL: https://entomology.gitlab.io/hive.html?game=bsn:HV-EddyMarlo-Eucalyx-2008-12-22-1526
+
+1: wG1 .
+2: bB1 wG1-
+3: wQ \wG1
+4: bQ bB1-
+5: wS1 wQ/
+6: bS1 bB1/
+7: wS1 bS1/
+8: bA1 bB1\
+9: wS2 wS1-
+10: bA1 -wQ
+11: wA1 /wG1
+12: bG1 bB1\
+13: wA2 wS1/
+14: bS2 /bA1
+15: wA1 /bS2
+16: bB2 \bA1
+17: wA2 bB2/
+18: bA2 -bA1
+19: wA1 -bA2
+20: bS2 -wA1
+21: wA3 wS1/
+22: bG2 bA2\
+23: wA3 bQ-
+24: bG1 wQ-
+25: wB1 wA3\
+26: bB1 wG1
+27: wB1 bQ\
+28: bA3 bB1\
+29: wB1 bQ
+30: bA3 wQ/
+31: wA3 bG2\
+32: bG3 bB1\
+33: resign

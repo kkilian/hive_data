@@ -1,0 +1,30 @@
+URL: https://entomology.gitlab.io/hive.html?game=bsn:HV-TANDERSON-fumanchu-2011-04-07-2213
+
+1: wS1 .
+2: bG1 wS1-
+3: wS2 /wS1
+4: bQ bG1/
+5: wQ -wS1
+6: bA1 \bQ
+7: wS2 bG1-
+8: bA1 \wQ
+9: wS2 \bQ
+10: bA2 bG1\
+11: wA1 -wS2
+12: bG2 \bA1
+13: wA1 bQ-
+14: bB1 -bA1
+15: wA1 -bB1
+16: bG2 wQ\
+17: wB1 -wS2
+18: bB2 /bG2
+19: wB1 wS2
+20: bB2 -bG2
+21: wB1 bQ
+22: bA2 bB1\
+23: wA2 -wS2
+24: bB2 wQ
+25: wG1 wB1-
+26: bA3 bA2\
+27: wA3 wS2-
+28: bB2 bA1-

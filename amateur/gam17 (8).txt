@@ -1,0 +1,32 @@
+URL: https://entomology.gitlab.io/hive.html?game=bsn:HV-guest-fumanchu-2011-08-05-2250
+
+1: wG1 .
+2: bG1 wG1-
+3: wQ \wG1
+4: bQ bG1/
+5: wA1 /wG1
+6: bA1 bG1-
+7: wA1 bQ/
+8: bA2 bG1\
+9: wG2 wA1-
+10: bA2 wQ/
+11: wA2 \wA1
+12: bA1 wA2/
+13: wB1 wG2\
+14: bB1 \bA2
+15: wB1 bQ-
+16: bB1 -bA2
+17: wB1 bQ
+18: bB1 wQ
+19: wS1 wB1-
+20: bA3 -bB1
+21: wG2 bG1-
+22: bS1 bA3/
+23: wS1 bA1-
+24: bG2 -bS1
+25: wG2 bA2-
+26: bG1 bA3\
+27: wG1 -bG1
+28: bS2 bG1-
+29: wA3 wB1\
+30: bB1 wQ-

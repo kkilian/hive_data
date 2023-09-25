@@ -1,0 +1,30 @@
+URL: https://entomology.gitlab.io/hive.html?game=bsn:U!HV-kkurtonis-IseedeadZ-2013-03-29-1851
+
+1: wG1 .
+2: bS1 wG1-
+3: wQ \wG1
+4: bQ bS1\
+5: wA1 /wG1
+6: bS2 bS1/
+7: wA2 /wA1
+8: bG1 bQ\
+9: wA2 bG1\
+10: bS2 \wQ
+11: wA1 -bG1
+12: bG2 bS1-
+13: wB1 -wA1
+14: bB1 bS2/
+15: wA3 wA2-
+16: bB1 bS2
+17: wA3 bG2-
+18: bB1 wQ
+19: wB1 wA1
+20: bB2 -bB1
+21: wB1 bG1
+22: bA1 bS2-
+23: wG2 wA1\
+24: bG3 -bB2
+25: wG2 wG1\
+26: bS1 wA3/
+27: wA2 wG1-
+28: bS1 bQ-

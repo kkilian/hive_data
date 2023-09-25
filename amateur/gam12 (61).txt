@@ -1,0 +1,125 @@
+URL: https://entomology.gitlab.io/hive.html?game=bga:6514319
+
+1: wG1 .
+2: bQ wG1\
+3: wQ wG1/
+4: bS1 bQ-
+5: wG2 wQ-
+6: bS1 wG2-
+7: wA1 -wG1
+8: bG1 bS1-
+9: wA2 wQ/
+10: bG1 wA1/
+11: wA2 bQ\
+12: bA1 \bG1
+13: wA1 \bA1
+14: bA2 -bG1
+15: wA2 /bA2
+16: bB1 bQ-
+17: wA3 -wA1
+18: bB1 wG1-
+19: wQ bA1-
+20: bS1 wQ/
+21: wA3 bQ\
+22: bG2 \bS1
+23: wS1 wA2\
+24: bG2 wQ-
+25: wG1 bB1-
+26: bA3 bS1-
+27: wA3 bA3/
+28: bQ bG1\
+29: wG2 \bS1
+30: bB2 bG2-
+31: wA1 bB2-
+32: bG3 bQ\
+33: wS1 /bG3
+34: bA1 -bS1
+35: wS2 \wG2
+36: bS2 \bA2
+37: wA2 \bS2
+38: bA1 -wA2
+39: wB1 wG1\
+40: bA1 bG3-
+41: wB1 bA1
+42: bB1 bQ
+43: wB1 bG3
+44: bB1 bG1
+45: wB1 bQ
+46: bB1 wQ
+47: wB1 bG1
+48: bB1 wB1
+49: wB2 wA1\
+50: bG2 bS2-
+51: wA3 /bA2
+52: bG2 wQ-
+53: wS2 bA3/
+54: bG2 bS2-
+55: wB2 wA1
+56: bG2 wQ-
+57: wB2 bB2
+58: bG2 bS2-
+59: wS1 bA1-
+60: bG2 /wA3
+61: wA1 /bG2
+62: bB1 wQ
+63: wB1 bB1
+64: pass
+65: wG1 bG3\
+66: pass
+67: wS2 wB2\
+68: pass
+69: wB2 bA3
+70: pass
+71: wB2 bS1
+72: pass
+73: wB2 wB1
+74: pass
+75: wB2 bG1
+76: pass
+77: wB2 bQ
+78: pass
+79: wB2 bG3
+80: pass
+81: wB2 bA1
+82: pass
+83: wS1 /wG1
+84: pass
+85: wS1 wA3-
+86: pass
+87: wB1 bG1-
+88: bG1 wG1\
+89: wA2 bG1\
+90: bS2 -wG2
+91: wG3 wB2-
+92: bA2 bS2\
+93: wG2 -bS2
+94: bB1 wQ-
+95: wQ /bA2
+96: bA3 -wQ
+97: wA1 -bA3
+98: bG2 wA3/
+99: wS1 -bG1
+100: pass
+101: wB2 bG3
+102: pass
+103: wA2 -wB2
+104: bG1 bG2-
+105: wB1 bB1
+106: pass
+107: wB1 bB2
+108: pass
+109: wS2 bQ-
+110: pass
+111: wB2 bQ
+112: bG3 bA3/
+113: wG2 wA2-
+114: bS2 \wA1
+115: wA2 \bS2
+116: bG3 wA1\
+117: wS1 wA3-
+118: bG1 bA3/
+119: wQ bG2-
+120: bG3 wA3\
+121: wA3 bG3-
+122: bG3 wQ/
+123: wB2 wQ-

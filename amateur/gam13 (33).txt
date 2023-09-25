@@ -1,0 +1,59 @@
+URL: https://entomology.gitlab.io/hive.html?game=bga:15164343
+
+1: wG1 .
+2: bG1 wG1-
+3: wA1 -wG1
+4: bG2 bG1-
+5: wQ wA1\
+6: bQ bG1/
+7: wA1 bQ/
+8: bA1 bG2-
+9: wS1 wA1-
+10: bA1 wS1/
+11: wA2 \wG1
+12: bA2 bG1\
+13: wA2 bA2\
+14: bA3 bG2-
+15: wA2 bA3\
+16: bS1 \bA1
+17: wS2 -wG1
+18: bS1 wS1-
+19: wS2 -wA1
+20: bS1 wA2-
+21: wG2 -wG1
+22: bS1 bA2-
+23: wA2 bA3-
+24: bS1 wA2-
+25: wS2 \bA1
+26: bS2 bA2-
+27: wG2 bS1-
+28: bA2 -wQ
+29: wB1 \wA1
+30: bS2 wQ\
+31: wB1 -wA1
+32: bB1 /bS2
+33: wB1 bQ
+34: bB1 bA2\
+35: wB2 -wA1
+36: bB1 wQ
+37: wA3 -wB2
+38: bB2 bA2\
+39: wG3 wB2/
+40: bB1 wG1
+41: wA3 /bB2
+42: bS2 /wA3
+43: wG3 wB1-
+44: bG2 wG2-
+45: wB2 wB1
+46: bA2 \wA1
+47: wB2 wA1
+48: bA2 \wS2
+49: offer-draw
+50: decline-draw
+51: wB2 wB1
+52: bB1 wQ
+53: wA1 \bA2
+54: bG3 bB2-
+55: wB2 bG1
+56: offer-draw
+57: accept-draw

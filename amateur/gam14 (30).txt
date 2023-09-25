@@ -1,0 +1,22 @@
+URL: https://entomology.gitlab.io/hive.html?game=bsn:HV-dominik-image13-2013-11-12-1316
+
+1: wS1 .
+2: bG1 wS1-
+3: wG1 \wS1
+4: bQ bG1/
+5: wB1 wG1/
+6: bA1 bG1\
+7: wQ -wG1
+8: bA1 \wQ
+9: wB1 wG1-
+10: bQ wB1/
+11: wA1 /wS1
+12: bB1 -bA1
+13: wA1 bQ/
+14: bB1 -wQ
+15: wB2 wQ\
+16: bG1 bB1\
+17: wA2 wA1/
+18: bG2 -bA1
+19: wS1 bQ-
+20: bG2 bA1-

@@ -1,0 +1,23 @@
+URL: https://entomology.gitlab.io/hive.html?game=bga:6229719
+
+1: wG1 .
+2: bS1 wG1\
+3: wA1 \wG1
+4: bQ bS1\
+5: wQ wA1-
+6: bA1 -bQ
+7: wA1 -bA1
+8: bS2 bS1-
+9: wS1 /wA1
+10: bS2 wQ/
+11: wS1 bQ\
+12: bG1 bS2-
+13: wB1 wS1-
+14: bB1 bS1-
+15: wB1 bQ-
+16: bB1 wB1
+17: wA2 -wQ
+18: bB2 bS2/
+19: wA2 bS1-
+20: bB2 bG1
+21: wA1 bA1\

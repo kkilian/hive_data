@@ -1,0 +1,35 @@
+URL: https://entomology.gitlab.io/hive.html?game=bsn:U!HV-JASHINWEN-Quodlibet-2015-02-26-0000
+
+1: wG1 .
+2: bG1 /wG1
+3: wQ \wG1
+4: bQ bG1\
+5: wA1 wQ-
+6: bG2 -bQ
+7: wA1 bQ\
+8: bA1 -bG1
+9: wG2 wQ-
+10: bA1 wG2-
+11: wS1 -wQ
+12: bS1 -bG1
+13: wS1 -bS1
+14: bS2 bA1/
+15: wB1 -wQ
+16: bS2 wB1/
+17: wS2 /wS1
+18: bA2 bS2/
+19: wG3 -wS1
+20: bA2 -wB1
+21: wS2 bG2\
+22: bQ wA1/
+23: wA2 wG3\
+24: bB1 bS2/
+25: wG3 bG1-
+26: bQ wA1-
+27: wA2 wA1/
+28: bG2 wS2\
+29: wS2 bG2\
+30: bB1 bS2-
+31: wS2 bQ-
+32: bG3 bB1/
+33: resign

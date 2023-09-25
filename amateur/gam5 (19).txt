@@ -1,0 +1,72 @@
+URL: https://entomology.gitlab.io/hive.html?game=bsn:U!HV-ringersoll-Benihona-2013-02-12-2322
+
+1: wG1 .
+2: bG1 wG1\
+3: wA1 \wG1
+4: bG2 bG1\
+5: wQ wA1-
+6: bQ -bG2
+7: wA1 bG2-
+8: bS1 /bQ
+9: wS1 -wG1
+10: bS1 wA1\
+11: wS1 /bQ
+12: bA1 bS1-
+13: wB1 -wS1
+14: bA1 /wB1
+15: wA2 -wG1
+16: bA2 bS1-
+17: wA2 bA2-
+18: bA3 -bA1
+19: wA2 -bA3
+20: bA2 wQ/
+21: wB2 \wB1
+22: bA2 \wB2
+23: wS2 \wA2
+24: bS2 bS1-
+25: wS2 wA2\
+26: bS2 bG1-
+27: wA2 \bA2
+28: bG2 -wQ
+29: wQ bG2/
+30: bB1 -bG2
+31: wA3 -wS2
+32: bG3 bS2/
+33: wA3 bG3/
+34: bB1 bG2
+35: wG2 wS1\
+36: bB1 wG1
+37: wG2 wB2-
+38: bB2 -bB1
+39: wG2 bQ-
+40: bB1 bB2
+41: wA3 \bG3
+42: bB1 bA2-
+43: wB2 bB1
+44: bS1 wS1\
+45: wA1 bS1\
+46: pass
+47: wB2 bB2
+48: pass
+49: wB2 wG1
+50: pass
+51: wB2 bG1
+52: pass
+53: wB2 bQ
+54: pass
+55: wG2 wA3-
+56: pass
+57: wG3 wG2/
+58: pass
+59: wG3 wB2-
+60: pass
+61: wG2 wS1-
+62: pass
+63: wG3 wB1/
+64: bB2 wA2-
+65: wA2 -bA2
+66: bB2 bB1/
+67: wG1 wB2-
+68: bG1 bS2-
+69: wA3 bB1-
+70: bG1 wA3-

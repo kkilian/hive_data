@@ -1,0 +1,31 @@
+URL: https://entomology.gitlab.io/hive.html?game=bsn:U!HV-Eucalyx-stepanzo-2012-04-15-2017
+
+1: wS1 .
+2: bG1 -wS1
+3: wQ wS1-
+4: bG2 -bG1
+5: wA1 wQ/
+6: bQ bG2\
+7: wS2 wS1\
+8: bS1 bG2/
+9: wA1 \bS1
+10: bQ bG1\
+11: wA2 wA1/
+12: bG2 wQ-
+13: wA2 /bQ
+14: bS2 -bG1
+15: wB1 wS2\
+16: bA1 /bS2
+17: wB1 wA2-
+18: bA2 bG2-
+19: wB1 bQ
+20: bA2 wA2\
+21: wB2 wS2\
+22: bA1 wB2-
+23: wG1 -wA2
+24: bA1 bS1-
+25: wB1 bG1
+26: bA2 wQ/
+27: wG1 wA2-
+28: bA1 wS2-
+29: wB1 bS2\

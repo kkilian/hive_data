@@ -1,0 +1,31 @@
+URL: https://entomology.gitlab.io/hive.html?game=bsn:HV-reilisam-nevir-2015-07-14-2143
+
+1: wS1 .
+2: bG1 wS1-
+3: wQ \wS1
+4: bQ bG1/
+5: wA1 /wS1
+6: bA1 bQ/
+7: wA1 bA1/
+8: bA2 -bA1
+9: wB1 wA1-
+10: bA2 wQ/
+11: wB1 bA1-
+12: bS1 bA2/
+13: wA1 \bS1
+14: bA3 bG1\
+15: wB1 bA1
+16: bB1 bG1-
+17: wA2 wB1-
+18: bA3 -wQ
+19: wA2 bB1-
+20: bB2 /bA3
+21: wB2 /wS1
+22: bG2 bG1\
+23: wG1 wB1-
+24: bB2 bA3
+25: wB2 wS1
+26: bG2 wQ-
+27: wG1 bA2-
+28: bG1 bB2\
+29: wG1 bB2/

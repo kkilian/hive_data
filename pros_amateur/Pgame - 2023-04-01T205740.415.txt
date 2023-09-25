@@ -1,0 +1,24 @@
+URL: https://entomology.gitlab.io/hive.html?game=bsn:HV-nevir-Quodlibet-2015-01-21-1951
+
+1: wB1 .
+2: bB1 -wB1
+3: wQ wB1\
+4: bQ /bB1
+5: wS1 wQ-
+6: bS1 /bQ
+7: wG1 wB1-
+8: bS1 /wQ
+9: wS1 /bS1
+10: bA1 \bB1
+11: wS2 wG1/
+12: bA1 \wS2
+13: wG2 wQ-
+14: bS2 -bA1
+15: wA1 -wS1
+16: bS2 bA1-
+17: wA1 \bB1
+18: bS2 wG2-
+19: wG3 wS2-
+20: bA1 bS1-
+21: wG3 wB1/
+22: bQ bB1\

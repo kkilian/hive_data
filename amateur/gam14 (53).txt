@@ -1,0 +1,63 @@
+URL: https://entomology.gitlab.io/hive.html?game=bga:7063781
+
+1: wG1 .
+2: bS1 wG1-
+3: wA1 -wG1
+4: bB1 bS1\
+5: wQ wA1\
+6: bQ bS1/
+7: wA1 bB1-
+8: bA1 /bB1
+9: wA1 bA1\
+10: bG1 bB1-
+11: wS1 wA1\
+12: bG1 wQ-
+13: wS1 bB1-
+14: bG1 -wQ
+15: wA2 wS1\
+16: bB2 \bG1
+17: wA2 -bB2
+18: bS2 /bG1
+19: wA3 wS1/
+20: bS2 -wA2
+21: wS2 wA1-
+22: bG2 bB2/
+23: wA3 bG2/
+24: bA2 /bG1
+25: wS2 -wA1
+26: bA2 wQ\
+27: wG1 bG1\
+28: bG3 bQ/
+29: wS1 bG3-
+30: bA3 bB1-
+31: wA1 bA3-
+32: bS2 -wA3
+33: wA3 bS2/
+34: pass
+35: wQ bB2-
+36: pass
+37: wQ bG2-
+38: pass
+39: wA3 \bS2
+40: pass
+41: wQ bS2-
+42: pass
+43: wQ wA3-
+44: pass
+45: wG2 wS1-
+46: pass
+47: wG2 -bG3
+48: pass
+49: wB1 wS1/
+50: pass
+51: wB1 bG3/
+52: pass
+53: wB1 bG3
+54: pass
+55: wA3 bQ-
+56: pass
+57: wA2 -bQ
+58: pass
+59: wG3 wS1/
+60: pass
+61: wG3 bS1-

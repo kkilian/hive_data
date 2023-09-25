@@ -1,0 +1,27 @@
+URL: https://entomology.gitlab.io/hive.html?game=bsn:HV-ghostpal-nevir-2015-01-26-0735
+
+1: wS1 .
+2: bG1 wS1-
+3: wG1 -wS1
+4: bQ bG1\
+5: wS2 wG1\
+6: bS1 bG1/
+7: wQ wG1/
+8: bS1 \wQ
+9: wS2 bQ\
+10: bB1 bS1/
+11: wG1 bG1-
+12: bA1 -bS1
+13: wB1 /wS1
+14: bB1 bS1
+15: wS2 wB1\
+16: bB1 wQ
+17: wA1 wG1-
+18: bG2 bA1\
+19: wA1 -bG2
+20: bG3 bS1-
+21: wA1 -bA1
+22: bG3 bG2\
+23: wG1 -bG3
+24: bS2 bS1-
+25: resign

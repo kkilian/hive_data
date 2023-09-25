@@ -1,0 +1,39 @@
+URL: https://entomology.gitlab.io/hive.html?game=bsn:HV-stepanzo-mandrake-2012-05-17-2027
+
+1: wG1 .
+2: bG1 -wG1
+3: wQ wG1/
+4: bQ /bG1
+5: wS1 wG1\
+6: bS1 /bQ
+7: wA1 wG1-
+8: bS1 /wS1
+9: wA1 -bQ
+10: bS2 \bG1
+11: wB1 /wA1
+12: bA1 /bS1
+13: wB1 wA1\
+14: bS2 wQ/
+15: wB1 bQ
+16: bA1 /wA1
+17: wS2 wS1-
+18: bA2 bS2/
+19: wB2 wG1-
+20: bB1 -bA2
+21: wB2 wG1
+22: bB1 -bS2
+23: wB2 bG1
+24: bG2 bB1/
+25: wA2 wA1/
+26: bA2 wG1-
+27: wA2 \bG2
+28: bB1 wQ
+29: wA3 wA1/
+30: bB2 -bS2
+31: wA2 wB1\
+32: bG2 bB1-
+33: wG1 bS1-
+34: bA1 wB2/
+35: wB1 wA1\
+36: bA1 wA3/
+37: resign

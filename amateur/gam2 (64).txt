@@ -1,0 +1,62 @@
+URL: https://entomology.gitlab.io/hive.html?game=bsn:HV-tima-tanksc-2016-04-20-1358
+
+1: wS1 .
+2: bG1 wS1\
+3: wG1 \wS1
+4: bQ bG1-
+5: wA1 -wS1
+6: bA1 /bG1
+7: wQ wG1/
+8: bA1 -wA1
+9: wA2 wG1-
+10: bA2 /bG1
+11: wA2 bQ-
+12: bA3 bA2-
+13: wG2 wA2\
+14: bA3 wG2\
+15: wA3 -wQ
+16: bA2 -wA3
+17: wB1 wA2/
+18: bS1 \bA2
+19: wB1 wA2
+20: bB1 bG1\
+21: wB2 wB1/
+22: bA3 wB2/
+23: wG2 bQ/
+24: bS1 wQ/
+25: wG2 /bB1
+26: bS2 \bA3
+27: wB1 bQ
+28: bS2 wS1-
+29: wG3 wA2\
+30: bG1 bA2/
+31: wS2 /wG2
+32: bA2 /wS2
+33: wG3 bS2-
+34: bG2 \bA1
+35: wB1 bB1-
+36: bG2 bA1\
+37: wB1 wA2
+38: bB2 bS1-
+39: wB1 wB2
+40: bB2 wQ-
+41: wB1 wG3
+42: bB2 wQ
+43: wB1 bQ
+44: bG3 bB2-
+45: wB1 bB1-
+46: bB2 wG1
+47: wB1 bB1
+48: bA2 -wS2
+49: wB1 wS1\
+50: bS2 bS1-
+51: wA2 bB1-
+52: bA1 wA2-
+53: pass
+54: bB2 wA3
+55: pass
+56: bG1 wG2-
+57: pass
+58: bS2 bB2/
+59: pass
+60: bA3 wG1-

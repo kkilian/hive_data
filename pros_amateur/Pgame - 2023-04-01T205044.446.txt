@@ -1,0 +1,26 @@
+URL: https://entomology.gitlab.io/hive.html?game=bsn:U!HV-kkurtonis-Eucalyx-2013-03-27-1101
+
+1: wG1 .
+2: bG1 wG1-
+3: wQ \wG1
+4: bQ bG1/
+5: wA1 /wG1
+6: bA1 bG1\
+7: wS1 wQ/
+8: bA1 wS1/
+9: wA2 -wQ
+10: bG2 bA1/
+11: wA2 bQ-
+12: bG2 -wG1
+13: wB1 wA2\
+14: bB1 -bG2
+15: wA1 bQ/
+16: bB1 -wQ
+17: wG2 wA1-
+18: bA2 /bG2
+19: wG2 wS1-
+20: bG1 wA1/
+21: wB1 bQ\
+22: bQ wQ-
+23: wB1 bQ-
+24: bA1 bB1/
