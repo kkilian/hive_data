@@ -1,0 +1,28 @@
+URL: https://entomology.gitlab.io/hive.html?game=bsn:HV-tripinbell-Eucalyx-2013-08-08-1125
+
+1: wS1 .
+2: bG1 wS1/
+3: wB1 wS1\
+4: bQ \bG1
+5: wQ -wS1
+6: bA1 bQ/
+7: wB1 wS1
+8: bA2 -bQ
+9: wB1 bG1
+10: bB1 bA2/
+11: wB1 bQ-
+12: bA1 /wQ
+13: wA1 wB1-
+14: bA2 \wQ
+15: wG1 wS1\
+16: bB2 -bA2
+17: wG1 bA2-
+18: bG1 bA1-
+19: wS1 wA1\
+20: bB2 -wQ
+21: wA2 wB1/
+22: bG2 bA1\
+23: wA2 /bG2
+24: bG3 -bB2
+25: wA3 /wS1
+26: bG3 wQ-

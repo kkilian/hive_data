@@ -1,0 +1,22 @@
+URL: https://entomology.gitlab.io/hive.html?game=bsn:U!HV-sepandy2-image13-2013-11-02-1543
+
+1: wG1 .
+2: bG1 wG1-
+3: wQ /wG1
+4: bQ bG1/
+5: wA1 \wG1
+6: bA1 bG1\
+7: wA1 bA1\
+8: bA2 bG1-
+9: wQ wG1\
+10: bA2 /wQ
+11: wB1 \wG1
+12: bB1 bA2\
+13: wB1 wG1
+14: bB1 bA2-
+15: wA1 bA1-
+16: bG2 bA2\
+17: wA1 bG2\
+18: bG3 bA1-
+19: wB1 bG1
+20: bG3 -wQ

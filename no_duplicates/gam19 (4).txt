@@ -1,0 +1,40 @@
+URL: https://entomology.gitlab.io/hive.html?game=bsn:HV-Davicius-EddyMarlo-2008-12-02-1826
+
+1: wS1 .
+2: bQ wS1-
+3: wS2 /wS1
+4: bS1 bQ\
+5: wQ \wS1
+6: bS2 bQ/
+7: wS2 bS1\
+8: bS2 \wQ
+9: wA1 wS2\
+10: bA1 \bS2
+11: wA1 bQ/
+12: bA2 bA1-
+13: wG1 wA1/
+14: bA2 wG1/
+15: wA2 -wG1
+16: bB1 bA1-
+17: wB1 -wS1
+18: bA1 /wB1
+19: wA2 bA1-
+20: bB1 bS2-
+21: wB1 wS1
+22: bB2 -bS2
+23: wB2 wA1-
+24: bG1 bS2/
+25: wB2 bQ-
+26: bB2 -wQ
+27: wG2 wS2\
+28: bA3 -bG1
+29: wA3 -wG2
+30: bA3 /wA3
+31: wB1 wA2-
+32: bA1 bB2\
+33: wA2 bG1/
+34: bA2 wG2\
+35: wG3 wA1-
+36: bG2 -bB2
+37: wG3 wQ-
+d

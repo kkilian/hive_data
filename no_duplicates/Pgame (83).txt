@@ -1,0 +1,34 @@
+URL: https://entomology.gitlab.io/hive.html?game=bsn:U!HV-ringersoll-image13-2013-02-23-1556
+
+1: wB1 .
+2: bB1 wB1-
+3: wA1 -wB1
+4: bQ bB1/
+5: wQ wA1/
+6: bG1 bB1-
+7: wA1 \bQ
+8: bA1 bB1\
+9: wS1 /wB1
+10: bA1 \wQ
+11: wB2 wA1/
+12: bS1 bA1/
+13: wB2 wA1
+14: bB2 bQ-
+15: wS1 bG1\
+16: bA2 -bS1
+17: wA2 /wS1
+18: bA2 wA2\
+19: wA3 wS1-
+20: bS1 -wQ
+21: wA3 wB2-
+22: bB2 bQ
+23: wB2 bB2
+24: bA3 -bA1
+25: wS2 wA1/
+26: bA3 bB1\
+27: wS2 wB2-
+28: bG1 wA3-
+29: wA1 wQ-
+30: bS2 -bA1
+31: wG1 wA1/
+32: bG1 bB1-

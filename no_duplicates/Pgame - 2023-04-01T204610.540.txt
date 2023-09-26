@@ -1,0 +1,43 @@
+URL: https://entomology.gitlab.io/hive.html?game=bsn:U!HV-fumanchu-Eucalyx-2011-07-14-1459
+
+1: wB1 .
+2: bG1 -wB1
+3: wA1 wB1-
+4: bA1 -bG1
+5: wQ wB1/
+6: bQ bA1/
+7: wA1 bQ/
+8: bS1 bA1\
+9: wB2 \wA1
+10: bA1 wB2/
+11: wA2 wQ/
+12: bA2 -bG1
+13: wA2 /bS1
+14: bS2 bA1-
+15: wA3 wB1\
+16: bS2 wQ/
+17: wA3 bA1/
+18: bA3 \bS2
+19: wG1 wA3/
+20: bA3 wG1/
+21: wG2 wB1-
+22: bB1 bS2-
+23: wG2 -bA2
+24: bB1 wQ-
+25: wS1 /wG2
+26: bB1 wQ
+27: wS1 wG2/
+28: bB2 bB1-
+29: wS2 -wG2
+30: bB1 wB1
+31: wS2 wS1/
+32: bG2 bS2-
+33: wG3 -wB2
+34: bA3 \wG3
+35: wA2 wB2-
+36: bG2 wA1-
+37: wB2 wA1
+38: bG1 bB1-
+39: wG2 bA2-
+40: bA2 /wS1
+41: resign

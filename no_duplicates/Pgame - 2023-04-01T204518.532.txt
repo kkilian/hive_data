@@ -1,0 +1,37 @@
+URL: https://entomology.gitlab.io/hive.html?game=bsn:HV-fumanchu-stepanzo-2012-05-15-1826
+
+1: wG1 .
+2: bG1 -wG1
+3: wA1 wG1-
+4: bG2 -bG1
+5: wQ wG1/
+6: bQ bG2/
+7: wA2 wG1\
+8: bS1 bG2\
+9: wA1 /bS1
+10: bG3 -bQ
+11: wS1 wQ/
+12: bS2 bQ/
+13: wS1 \bS2
+14: bG3 bQ-
+15: wA2 -bS2
+16: bS2 \wS1
+17: wB1 wS1-
+18: bG2 wA2-
+19: wG1 -bG1
+20: bG2 wB1/
+21: wA1 bS2-
+22: bG1 bG3/
+23: wB1 bG1
+24: bB1 bS1-
+25: wB2 -wG1
+26: bB1 wG1-
+27: wB2 -bQ
+28: bB1 wG1
+29: wQ bG3\
+30: bS1 wQ\
+31: wG2 -wA2
+32: bS2 -wG2
+33: wG3 wG2/
+34: bB1 wG1-
+35: wB1 wA2-

@@ -1,0 +1,54 @@
+URL: https://entomology.gitlab.io/hive.html?game=bsn:HV-Lian-fumanchu-2011-01-01-2049
+
+1: wB1 .
+2: bG1 wB1-
+3: wS1 /wB1
+4: bQ bG1/
+5: wQ -wB1
+6: bG2 bG1-
+7: wS1 bG2\
+8: bA1 \bQ
+9: wS2 wQ/
+10: bA1 wS2/
+11: wG1 /wQ
+12: bS1 \bA1
+13: wB2 -wQ
+14: bS1 \wB2
+15: wS1 bQ/
+16: bA2 bG1\
+17: wG1 bA1/
+18: bA3 \bS1
+19: wG2 wS1-
+20: bA2 wG2-
+21: wA1 wS1/
+22: bA3 \wA1
+23: wG3 \wG1
+24: bA2 wG3/
+25: wG2 bA1-
+26: bA1 \wS2
+27: wA2 wS1-
+28: bG2 -bA2
+29: wA2 bG1-
+30: bA2 wA2\
+31: wA3 wS1-
+32: bA2 wA3-
+33: wA2 bA1/
+34: bG1 -wB2
+35: wB1 wS2-
+36: bA1 -wA2
+37: pass
+38: bQ wS1\
+39: pass
+40: bQ wA3\
+41: pass
+42: bS1 /bG1
+43: pass
+44: bS1 wQ\
+45: pass
+46: bS2 bS1-
+47: pass
+48: bS2 wB2\
+49: pass
+50: bA2 wB2/
+51: pass
+52: bG1 wQ-

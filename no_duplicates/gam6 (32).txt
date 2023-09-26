@@ -1,0 +1,33 @@
+URL: https://entomology.gitlab.io/hive.html?game=bsn:T!HV-Eucalyx-bluess-2012-06-16-1642
+
+1: wG1 .
+2: bG1 wG1-
+3: wA1 -wG1
+4: bG2 bG1-
+5: wQ wA1\
+6: bQ bG1\
+7: wA1 /bQ
+8: bA1 bG1/
+9: wS1 \wG1
+10: bA1 /wQ
+11: wB1 wA1\
+12: bB1 -bA1
+13: wS1 \bB1
+14: bS1 bG1/
+15: wB1 wA1-
+16: bS1 -wG1
+17: wB1 bQ
+18: bB2 bA1\
+19: wA2 wA1-
+20: bB2 bA1-
+21: wG1 bG2-
+22: bG1 wA2\
+23: wA3 -wS1
+24: bA2 \bS1
+25: wA3 wB1-
+26: bA2 bS1-
+27: wG1 bA2-
+28: bG2 wS1/
+29: wS2 wG1-
+30: bB1 wS1
+31: wB1 wQ-

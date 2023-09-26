@@ -1,0 +1,47 @@
+URL: https://entomology.gitlab.io/hive.html?game=bsn:HV-kkurtonis-Gori-2016-01-29-1708
+
+1: wG1 .
+2: bS1 /wG1
+3: wA1 wG1/
+4: bB1 bS1\
+5: wQ -wA1
+6: bG1 -bB1
+7: wS1 wG1-
+8: bQ -bS1
+9: wA1 -bQ
+10: bS2 /bG1
+11: wS1 bB1\
+12: bS2 wS1\
+13: wA2 -wA1
+14: bA1 /bG1
+15: wA2 /bA1
+16: bA2 bS2-
+17: wA3 wG1-
+18: bA2 -wQ
+19: wS2 -wA1
+20: bB2 -bA2
+21: wS2 \bB2
+22: bG2 bS2\
+23: wA3 -bB2
+24: bG2 bQ/
+25: wQ bA2/
+26: bG3 /bS2
+27: wA3 bG3\
+28: bA3 bS2-
+29: wA1 bA3-
+30: bQ -bG1
+31: wG2 wA1/
+32: bQ -bA1
+33: wA2 -bQ
+34: pass
+35: wG2 bA3\
+36: pass
+37: wA1 wA2\
+38: pass
+39: wG3 -wA1
+40: pass
+41: wG3 wA2/
+42: pass
+43: wG1 wA1-
+44: pass
+45: wA3 wG3-

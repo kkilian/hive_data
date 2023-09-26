@@ -1,0 +1,43 @@
+URL: https://entomology.gitlab.io/hive.html?game=bsn:HV-nevir-tanksc-2015-01-12-0738
+
+1: wG1 .
+2: bG1 wG1\
+3: wQ -wG1
+4: bQ bG1-
+5: wS1 /wQ
+6: bA1 bQ/
+7: wS2 wG1/
+8: bA1 \wS2
+9: wA1 -wQ
+10: bS1 -bA1
+11: wA1 bQ-
+12: bS1 bA1-
+13: wB1 wA1/
+14: bA1 \wB1
+15: wG2 wA1\
+16: bA2 \bS1
+17: wG2 bQ/
+18: bA1 wB1/
+19: wS1 bG1\
+20: bA3 bS1-
+21: wA2 /wS1
+22: bA3 /wA2
+23: wA1 \bA2
+24: bB1 bA1-
+25: wB2 wA2-
+26: bB1 wB1-
+27: wB2 wS1
+28: bB1 wB1
+29: wB2 bQ
+30: bS2 bB1\
+31: wG3 -wQ
+32: bA1 \wA1
+33: wA3 wQ/
+34: bA1 \wA3
+35: wA1 wB2-
+36: bA2 -wG3
+37: wB2 wG1-
+38: bG1 wA2-
+39: wG1 bB1-
+40: bS2 wG1/
+41: resign

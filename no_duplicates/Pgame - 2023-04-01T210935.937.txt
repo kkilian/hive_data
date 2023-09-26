@@ -1,0 +1,24 @@
+URL: https://entomology.gitlab.io/hive.html?game=bsn:HV-Loizz-Eucalyx-2008-10-01-1924
+
+1: wQ .
+2: bQ wQ-
+3: wA1 \wQ
+4: bS1 bQ\
+5: wA1 bQ/
+6: bS1 -wQ
+7: wB1 wA1-
+8: bB1 bQ\
+9: wB1 bQ-
+10: bB2 \bS1
+11: wB2 \wA1
+12: bB2 bS1/
+13: wB2 bB2-
+14: bB1 wQ\
+15: wB2 bQ
+16: bG1 -bB2
+17: wA2 wA1-
+18: bG1 bS1\
+19: wA2 bB1-
+20: bS2 -bB2
+21: wB2 bB2-
+d

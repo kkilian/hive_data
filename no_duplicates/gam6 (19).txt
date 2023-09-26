@@ -1,0 +1,33 @@
+URL: https://entomology.gitlab.io/hive.html?game=bsn:T!HV-BlueLine-bluess-2012-05-31-0227
+
+1: wG1 .
+2: bB1 wG1-
+3: wQ \wG1
+4: bQ bB1\
+5: wA1 /wG1
+6: bA1 bB1-
+7: wA1 bQ\
+8: bA2 bB1/
+9: wA2 /wG1
+10: bA1 -wA2
+11: wS1 wA1-
+12: bA3 \bA1
+13: wS1 bA2-
+14: bA3 \wQ
+15: wG2 wA1-
+16: bG1 -bA3
+17: wG2 -wA1
+18: bG1 bA3-
+19: wG3 wG2\
+20: bG2 bA3/
+21: wG3 bQ-
+22: bG2 -wQ
+23: wB1 wA1-
+24: bG3 bA3/
+25: wB1 wG3
+26: bB2 -bA3
+27: wA3 wG2\
+28: bG3 wQ-
+29: wA3 /bG2
+30: bA1 /wA2
+31: wA3 bG2\

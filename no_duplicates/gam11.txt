@@ -1,0 +1,27 @@
+URL: https://entomology.gitlab.io/hive.html?game=bsn:HV-Loizz-chapila-2008-09-25-2050
+
+1: wQ .
+2: bS1 /wQ
+3: wA1 \wQ
+4: bQ bS1\
+5: wS1 wQ-
+6: bB1 -bS1
+7: wA1 /bB1
+8: bB2 bQ-
+9: wS1 bB2-
+10: bS2 \bB1
+11: wS2 wS1\
+12: bA1 \bS2
+13: wS2 /bQ
+14: bA2 bA1-
+15: wA2 wS2\
+16: bA2 bS2-
+17: wQ bA2/
+18: bA1 wQ-
+19: wA2 wS2-
+20: bS2 wQ/
+21: wA3 wS1\
+22: bA3 bS2-
+23: wA3 bS1-
+24: bG1 bA1-
+25: wA1 bB1\

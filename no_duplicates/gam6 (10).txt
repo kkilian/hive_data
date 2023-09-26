@@ -1,0 +1,29 @@
+URL: https://entomology.gitlab.io/hive.html?game=bsn:U!HV-ringersoll-bluess-2012-05-12-0215
+
+1: wG1 .
+2: bS1 wG1\
+3: wQ wG1/
+4: bS2 bS1-
+5: wA1 -wG1
+6: bQ /bS1
+7: wA1 bS2-
+8: bG1 bQ-
+9: wS1 -wG1
+10: bA1 bQ\
+11: wS1 -bA1
+12: bA1 wQ/
+13: wA2 -wS1
+14: bG1 -wQ
+15: wA3 wS1\
+16: bG2 bQ-
+17: wA2 -bS1
+18: bA2 \bG1
+19: wA3 bA2/
+20: bB1 bA1-
+21: wG2 -wS1
+22: bB1 wQ-
+23: wG2 wS1-
+24: bG2 bS2/
+25: wG1 bQ-
+26: bA3 bA1-
+27: wA1 -bQ

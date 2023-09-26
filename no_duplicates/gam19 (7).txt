@@ -1,0 +1,30 @@
+URL: https://entomology.gitlab.io/hive.html?game=bsn:HV-Yokohama-EddyMarlo-2009-01-28-1830
+
+1: wG1 .
+2: bG1 wG1-
+3: wQ -wG1
+4: bQ bG1/
+5: wA1 wQ\
+6: bS1 bG1\
+7: wA1 bQ/
+8: bA1 bG1-
+9: wB1 \wA1
+10: bA1 \wB1
+11: wS1 \wQ
+12: bS1 /wQ
+13: wS1 -wA1
+14: bB1 -bS1
+15: wB2 wQ/
+16: bB1 -wQ
+17: wS2 wB1-
+18: bA2 -bS1
+19: wS2 bG1-
+20: bA1 \wB2
+21: wB1 wS1
+22: bA2 bS1-
+23: wA1 \bA1
+24: bB1 wQ
+25: wB1 bQ
+26: bS2 -bB1
+27: wA2 wS1-
+28: bB1 bS2/

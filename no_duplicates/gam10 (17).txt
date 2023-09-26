@@ -1,0 +1,29 @@
+URL: https://entomology.gitlab.io/hive.html?game=bsn:U!HV-Iwasawa-nevir-2015-03-15-0535
+
+1: wG1 .
+2: bG1 wG1-
+3: wQ -wG1
+4: bQ bG1/
+5: wS1 wQ/
+6: bS1 bQ/
+7: wS1 \bS1
+8: bA1 bG1-
+9: wQ \wG1
+10: bA1 \wQ
+11: wA1 wS1/
+12: bA2 bG1\
+13: wG2 -wA1
+14: bA2 wA1/
+15: wG2 bQ-
+16: bA3 bG1\
+17: wS2 -wA1
+18: bA3 -wG1
+19: wS2 wQ-
+20: bG1 bA1-
+21: wG1 \bA1
+22: bB1 bA3\
+23: wA2 -wA1
+24: bB1 bA3-
+25: wA2 bA2-
+26: bG2 bA3\
+27: wG2 -wQ

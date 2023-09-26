@@ -1,0 +1,27 @@
+URL: https://entomology.gitlab.io/hive.html?game=bsn:U!HV-image13-SageAurora-2013-10-22-1554
+
+1: wG1 .
+2: bA1 -wG1
+3: wA1 wG1-
+4: bA2 \bA1
+5: wQ wG1/
+6: bB1 /bA1
+7: wA1 -bA2
+8: bQ bA2/
+9: wS1 \wA1
+10: bB1 bA1
+11: wS1 bQ/
+12: bB1 wG1
+13: wB1 wQ/
+14: bG1 /bA1
+15: wS2 -wA1
+16: bG1 bA2-
+17: wS2 -wS1
+18: bA1 wQ-
+19: wB1 bQ-
+20: bG1 bA1-
+21: wG2 wS1-
+22: bB1 wQ
+23: wG2 bA2-
+24: bB2 bA1/
+25: wA1 -bQ

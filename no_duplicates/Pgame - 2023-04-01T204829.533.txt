@@ -1,0 +1,34 @@
+URL: https://entomology.gitlab.io/hive.html?game=bsn:U!HV-fumanchu-image13-2012-11-02-1312
+
+1: wB1 .
+2: bG1 -wB1
+3: wA1 wB1-
+4: bQ /bG1
+5: wQ wB1\
+6: bA1 \bG1
+7: wA1 -bA1
+8: bS1 /bQ
+9: wS1 /wQ
+10: bS1 wS1\
+11: wS2 /wA1
+12: bA2 bS1\
+13: wS2 /bQ
+14: bA3 bS1-
+15: wG1 -wS2
+16: bA3 wB1-
+17: wG2 wS2\
+18: bA2 /wA1
+19: wB2 wG1\
+20: bA3 /wB2
+21: wG3 wB1/
+22: bB1 bA1/
+23: wG3 bQ-
+24: bB1 bA1
+25: wB1 wG3
+26: bB1 wA1
+27: wB1 bQ
+28: bS2 -bB1
+29: wA2 wS2-
+30: bA2 wG2\
+31: wA3 wG1/
+32: bB1 wA3/

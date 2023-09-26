@@ -1,0 +1,27 @@
+URL: https://entomology.gitlab.io/hive.html?game=bsn:HV-Bechster-guest-2015-01-13-1924
+
+1: wG1 .
+2: bB1 wG1-
+3: wQ -wG1
+4: bQ bB1/
+5: wS1 wQ/
+6: bQ wS1-
+7: wG1 bB1-
+8: bA1 /bB1
+9: wS2 wG1-
+10: bA2 /bA1
+11: wA1 \wS1
+12: bA2 wS2-
+13: wA1 /bA1
+14: bS1 bQ/
+15: wA1 bS1/
+16: bA1 bQ-
+17: wB1 \wS1
+18: bB1 wQ-
+19: wA2 -wS1
+20: bB1 wQ
+21: wA2 bB1-
+22: bG1 -bB1
+23: wB1 wS1/
+24: bA2 wA1-
+25: wS2 wA2-

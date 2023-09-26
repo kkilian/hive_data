@@ -1,0 +1,34 @@
+URL: https://entomology.gitlab.io/hive.html?game=bsn:U!HV-Loizz-EddyMarlo-2008-12-07-1506
+
+1: wQ .
+2: bB1 wQ\
+3: wA1 -wQ
+4: bG1 /bB1
+5: wA2 wA1/
+6: bG2 bB1-
+7: wA3 wA2-
+8: bQ bG1-
+9: wA3 bG2-
+10: bG1 wQ-
+11: wA2 -bQ
+12: bB1 wQ
+13: wB1 /wA2
+14: bS1 bB1/
+15: wA1 \bS1
+16: bS2 -bB1
+17: wB1 wA2\
+18: bB1 bS2\
+19: wA1 wB1-
+20: bA1 -bB1
+21: wB1 bQ
+22: bA2 bS1/
+23: wB2 wA2\
+24: bA2 wA3-
+25: wG1 wB2\
+26: bG3 bS1-
+27: wB1 bG2
+28: bA1 wG1\
+29: wB2 bQ
+30: bA1 bS2/
+31: wG2 wA2\
+32: bG3 bB1-

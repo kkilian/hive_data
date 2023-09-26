@@ -1,0 +1,22 @@
+URL: https://entomology.gitlab.io/hive.html?game=bsn:U!HV-Kurlench-DrRaven-2012-03-10-0313
+
+1: wG1 .
+2: bG1 wG1-
+3: wQ /wG1
+4: bQ bG1\
+5: wA1 /wQ
+6: bA1 bG1/
+7: wA1 bQ\
+8: bA1 wQ\
+9: wS1 wA1\
+10: bG2 bG1-
+11: wA2 \wG1
+12: bB1 /bA1
+13: wA2 bG2/
+14: bB1 -bA1
+15: wS2 wA2/
+16: bA2 bB1\
+17: wS2 bQ-
+18: bA2 -wG1
+19: wA2 -wQ
+20: bQ wQ-

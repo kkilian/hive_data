@@ -1,0 +1,35 @@
+URL: https://entomology.gitlab.io/hive.html?game=bsn:U!HV-kkurtonis-Benihona-2013-04-01-2034
+
+1: wG1 .
+2: bG1 wG1-
+3: wA1 -wG1
+4: bB1 bG1\
+5: wQ wA1/
+6: bQ bG1-
+7: wA1 bQ/
+8: bA1 bB1-
+9: wS1 wA1-
+10: bA1 bG1/
+11: wS1 \bA1
+12: bQ wA1\
+13: wA2 /wG1
+14: bB1 bG1
+15: wB1 wA1/
+16: bB2 bQ-
+17: wS2 wB1-
+18: bB2 bQ
+19: wS2 bB2\
+20: bA2 bB1\
+21: wB1 wA1-
+22: bB2 wS2
+23: wA2 bA2-
+24: bA2 -wQ
+25: wG2 wA1/
+26: bA2 \wG2
+27: wA3 /wG1
+28: bA3 bB2\
+29: wA3 bQ-
+30: bA3 -wQ
+31: wB2 wB1-
+32: bA2 wB2/
+33: wG2 bB1-

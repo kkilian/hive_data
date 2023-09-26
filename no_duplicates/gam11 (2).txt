@@ -1,0 +1,21 @@
+URL: https://entomology.gitlab.io/hive.html?game=bsn:HV-Loizz-smeagol-2008-09-26-2346
+
+1: wQ .
+2: bS1 -wQ
+3: wA1 wQ/
+4: bA1 /bS1
+5: wA2 wQ\
+6: bQ -bA1
+7: wA2 -bQ
+8: bG1 bQ/
+9: wB1 /wA2
+10: bB1 bG1/
+11: wB1 wA2\
+12: bA1 wQ\
+13: wB1 bQ
+14: bA2 /bA1
+15: wA1 wA2/
+16: bA2 wB1-
+17: wG1 wA2\
+18: bA1 wG1\
+19: wB1 wG1-

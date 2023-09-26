@@ -1,0 +1,36 @@
+URL: https://entomology.gitlab.io/hive.html?game=bsn:U!HV-KromleX-Eucalyx-2012-06-05-1533
+
+1: wG1 .
+2: bG1 -wG1
+3: wA1 wG1-
+4: bG2 -bG1
+5: wQ wG1/
+6: bQ bG2/
+7: wA1 bQ/
+8: bB1 bG2\
+9: wA2 wG1\
+10: bG2 wG1-
+11: wA2 -bB1
+12: bA1 bG2\
+13: wS1 wA1/
+14: bA1 \wS1
+15: wA3 wQ/
+16: bS1 bG2\
+17: wA3 -bA1
+18: bS1 wQ/
+19: wS2 /wA3
+20: bB2 bG2\
+21: wS2 -bQ
+22: bB2 bG2
+23: wB1 \wS2
+24: bB2 wG1
+25: wB1 wS2
+26: bG3 bG2\
+27: wB1 bQ
+28: bG3 wA1-
+29: wG2 wS2/
+30: bS2 bB2\
+31: wA2 wS2\
+32: bS2 wQ-
+33: wB1 bQ-
+d

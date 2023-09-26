@@ -1,0 +1,34 @@
+URL: https://entomology.gitlab.io/hive.html?game=bsn:U!HV-Faxiao-Eucalyx-2010-09-19-1827
+
+1: wG1 .
+2: bG1 wG1\
+3: wS1 wG1/
+4: bQ /bG1
+5: wQ \wS1
+6: bA1 -bQ
+7: wB1 -wG1
+8: bA1 -wQ
+9: wA1 wS1-
+10: bB1 \bA1
+11: wA1 bB1/
+12: bG2 -bA1
+13: wA2 wS1-
+14: bG2 wQ-
+15: wA2 /bQ
+16: bS1 bG2-
+17: wA2 bS1-
+18: bA2 bG1-
+19: wA3 /wB1
+20: bA2 /wA3
+21: wG2 -wB1
+22: bA3 bG1-
+23: wG2 wG1-
+24: bA3 bB1-
+25: wB2 wG2-
+26: bB1 bA1
+27: wB2 bG1-
+28: bB1 wQ
+29: wB2 bG1
+30: bA2 bA3-
+31: wB2 bQ
+32: bB1 wB1/

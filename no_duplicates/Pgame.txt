@@ -1,0 +1,33 @@
+URL: https://entomology.gitlab.io/hive.html?game=bsn:HV-ringersoll-stepanzo-2012-04-17-1921
+
+1: wG1 .
+2: bG1 -wG1
+3: wA1 wG1-
+4: bG2 -bG1
+5: wQ wG1/
+6: bQ bG2/
+7: wA1 bQ/
+8: bA1 bG2\
+9: wS1 wG1\
+10: bA1 wQ-
+11: wA2 \wA1
+12: bS1 bA1\
+13: wS1 /bG2
+14: bS1 wQ/
+15: wS2 -wS1
+16: bG3 bS1-
+17: wS2 -wA1
+18: bA2 bA1\
+19: wA2 bA2\
+20: bA3 bA1-
+21: wA3 /wS1
+22: bG3 wA1-
+23: wA3 bA3/
+24: bG3 bS1-
+25: wG2 wS2/
+26: bB1 \bS1
+27: wA3 -bQ
+28: bA3 \wG2
+29: wG3 -wA3
+30: bG3 wG1-
+31: wQ bQ-

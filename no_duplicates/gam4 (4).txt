@@ -1,0 +1,37 @@
+URL: https://entomology.gitlab.io/hive.html?game=bsn:HV-guest-stepanzo-2012-04-07-1255
+
+1: wG1 .
+2: bG1 -wG1
+3: wQ wG1/
+4: bQ \bG1
+5: wA1 wG1\
+6: bS1 /bG1
+7: wA1 bQ/
+8: bA1 -bG1
+9: wB1 \wA1
+10: bA1 wQ/
+11: wB1 -wA1
+12: bS1 -wB1
+13: wS1 wG1\
+14: bS2 /bG1
+15: wS1 /bS2
+16: bG2 -bG1
+17: wA2 wB1/
+18: bS1 wA2/
+19: wB1 bQ
+20: bA2 bS1-
+21: wB2 -wA1
+22: bB1 bA1-
+23: wA1 bB1-
+24: bA3 bA1/
+25: wA3 -wS1
+26: bA2 -wA3
+27: wS2 wB2-
+28: bG3 -bA3
+29: wB2 -wB1
+30: bG3 wQ-
+31: wG2 wB2/
+32: bG2 wG1-
+33: wQ wB1-
+34: bA3 wS2-
+35: wB1 wB2\

@@ -1,0 +1,62 @@
+URL: https://entomology.gitlab.io/hive.html?game=bsn:U!HV-isearch12-ringersoll-2011-10-16-2014
+
+1: wS1 .
+2: bG1 wS1-
+3: wQ \wS1
+4: bQ bG1\
+5: wA1 -wQ
+6: bG2 bG1-
+7: wA1 bQ\
+8: bA1 bG1/
+9: wB1 /wA1
+10: bA1 wB1\
+11: wG1 wA1-
+12: bA2 bG1/
+13: wG1 -wA1
+14: bS1 /bA1
+15: wB2 wA1-
+16: bA2 wB2/
+17: wA2 /wS1
+18: bS1 wA2\
+19: wA2 bA2/
+20: bA3 -bS1
+21: wA2 \bA3
+22: bS2 bG1/
+23: wG2 wB2\
+24: bA2 wG2-
+25: wA3 wB2/
+26: bS2 wA3/
+27: wG3 \wQ
+28: bB1 bG1/
+29: wG3 bS1/
+30: bB1 bG1
+31: wS2 wQ/
+32: bB1 wG3
+33: wS2 bG2/
+34: bB2 bA3\
+35: wQ wS1/
+36: bG1 \wQ
+37: wA2 bA1-
+38: bA1 /wA2
+39: wB1 wA1
+40: bB2 bS1
+41: wB1 wB2
+42: bB2 wG1
+43: wB1 wB2-
+44: bA2 wB1-
+45: wS2 bS2/
+46: bA3 wS2/
+47: pass
+48: bG2 bS1\
+49: pass
+50: bG2 -bB1
+51: pass
+52: bG2 bG1-
+53: pass
+54: bG3 bG1/
+55: pass
+56: bG3 wQ-
+57: pass
+58: bS1 -wQ
+59: pass
+60: bQ wS1-

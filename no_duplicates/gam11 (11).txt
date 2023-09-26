@@ -1,0 +1,58 @@
+URL: https://entomology.gitlab.io/hive.html?game=bsn:HV-Ver-Loizz-2008-10-30-2119
+
+1: wS1 .
+2: bS1 wS1-
+3: wG1 -wS1
+4: bA1 bS1/
+5: wA1 wG1/
+6: bQ bS1\
+7: wQ wG1\
+8: bA1 wA1/
+9: wG1 bS1-
+10: bS2 bQ\
+11: wG2 wG1/
+12: bS2 wG2-
+13: wB1 -wS1
+14: bA2 bQ\
+15: wB1 wS1
+16: bA2 -wQ
+17: wB1 bS1
+18: bB1 /bQ
+19: wG3 wB1/
+20: bB1 wQ-
+21: wA2 wG3/
+22: bS2 \wA2
+23: wG3 bQ-
+24: bQ /wG3
+25: wB1 bB1-
+26: bB1 wB1
+27: wS2 wG1-
+28: bQ /bB1
+29: wA3 wG2-
+30: bA2 wA3-
+31: wS2 bQ-
+32: bQ /wS2
+33: wG3 /bQ
+34: bA3 bS2/
+35: wB2 wS2-
+36: bA3 wB2-
+37: wQ -wS1
+38: bB1 bS1
+39: wQ -wA1
+40: bA1 -wQ
+41: wG3 wB1-
+42: bB1 wB1
+43: wG3 wS1\
+44: bS1 wQ/
+45: pass
+46: bB2 /bA1
+47: pass
+48: bB2 bA1\
+49: pass
+50: bB2 wQ
+51: pass
+52: bG1 bA1/
+53: pass
+54: bG2 bA1\
+55: pass
+56: bB2 bG2-

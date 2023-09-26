@@ -1,0 +1,32 @@
+URL: https://entomology.gitlab.io/hive.html?game=bsn:HV-EddyMarlo-Fibnif-2008-11-21-1506
+
+1: wQ .
+2: bS1 wQ/
+3: wA1 wQ\
+4: bQ \bS1
+5: wA2 -wQ
+6: bA1 bS1-
+7: wA1 bA1-
+8: bA2 bQ-
+9: wA2 -bQ
+10: bA2 /wQ
+11: wB1 \wA2
+12: bA2 \wB1
+13: wA3 -wA2
+14: bB1 bQ-
+15: wA1 bB1/
+16: bA1 /wQ
+17: wG1 wA3\
+18: bB2 bA1\
+19: wG1 wB1-
+20: bA3 bS1-
+21: wG2 wA1-
+22: bB2 bA1-
+23: wG2 wG1-
+24: bB1 bS1
+25: wA1 bQ-
+26: bA3 /wA3
+27: wG3 wG2/
+28: bA1 wG3/
+29: wB2 wG1/
+30: resign

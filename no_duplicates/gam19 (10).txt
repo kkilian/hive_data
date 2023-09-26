@@ -1,0 +1,32 @@
+URL: https://entomology.gitlab.io/hive.html?game=bsn:HV-Kozelek-EddyMarlo-2009-03-29-1203
+
+1: wS1 .
+2: bB1 wS1-
+3: wA1 /wS1
+4: bQ bB1\
+5: wB1 \wS1
+6: bA1 bB1/
+7: wQ -wS1
+8: bA1 wA1\
+9: wA2 \wB1
+10: bS1 /bA1
+11: wQ -wB1
+12: bS1 wQ\
+13: wQ -bS1
+14: bA2 /bA1
+15: wA2 bQ-
+16: bA2 -wQ
+17: wB1 wS1
+18: bB2 \bA2
+19: wB1 bB1
+20: bB2 bA2/
+21: wG1 wS1/
+22: bB2 wQ
+23: wG1 bQ\
+24: bS2 bA2\
+25: wB1 bQ
+26: bG1 bB2/
+27: wG2 wG1-
+28: bG2 bA2/
+29: wA2 \bG2
+30: bA1 bS2-

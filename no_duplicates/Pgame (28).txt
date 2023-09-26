@@ -1,0 +1,38 @@
+URL: https://entomology.gitlab.io/hive.html?game=bsn:U!HV-Eucalyx-ringersoll-2012-04-14-1648
+
+1: wS1 .
+2: bG1 wS1-
+3: wQ -wS1
+4: bG2 bG1-
+5: wA1 /wQ
+6: bQ bG1\
+7: wS2 wA1-
+8: bA1 bG1/
+9: wA1 bA1/
+10: bA2 bG2-
+11: wS2 bQ\
+12: bA2 /wQ
+13: wB1 /wS2
+14: bG2 -wQ
+15: wB1 -wS2
+16: bB1 bG1-
+17: wG1 wB1\
+18: bA3 \bG2
+19: wG1 bQ-
+20: bA3 -wB1
+21: wG2 wB1\
+22: bA2 wG2\
+23: wG3 wG1-
+24: bB1 wG1/
+25: wA2 wS2-
+26: bS1 \bG2
+27: wA2 \bS1
+28: bS2 bB1/
+29: wA3 wS2-
+30: bS2 wA1/
+31: wA3 bA2\
+32: bB1 wG3
+33: wB2 wQ/
+34: bA3 \wB2
+35: wA2 bG1-
+36: resign
